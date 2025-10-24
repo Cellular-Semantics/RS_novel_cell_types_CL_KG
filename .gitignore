@@ -1,6 +1,9 @@
 # ROBOT JAR file
 robot.jar
 
+# Miniconda installer
+Miniconda3-latest-MacOSX-arm64.sh
+
 # Python
 __pycache__/
 *.py[cod]
